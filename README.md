@@ -14,7 +14,7 @@ Meu nome é Nicolas e tenho 21 anos. Atualmente estou cursando Análise e Desenv
   alt= "java"
   title= "java"
   widht= "5px"
-  styles="padding-right: 10px;"
+  styles="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
 />
 
