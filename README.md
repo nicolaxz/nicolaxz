@@ -10,46 +10,46 @@ Meu nome é Nicolas e tenho 21 anos. Atualmente estou cursando Análise e Desenv
 
 
 <img 
-  align= "left"
-  alt= "java"
-  title= "java"
-  widht= "5px"
-  styles="padding-right: 10px"
+  align="left"
+  alt="java"
+  title="java"
+  width="30px"
+  styles="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
 />
 
 <img 
-  align= "left"
-  alt= "python"
-  title= "python"
-  widht= "30px"
+  align="left"
+  alt="python"
+  title="python"
+  width="30px"
   styles="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"           
 />
 
 <img 
-  align= "left"
-  alt= "html"
-  title= "html"
-  widht= "30px"
+  align="left"
+  alt="html"
+  title="html"
+  width="30px"
   styles="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"           
 />
 
 <img 
-  align= "left"
-  alt= "css"
-  title= "css"
-  widht= "30px"
+  align="left"
+  alt="css"
+  title="css"
+  width="30px"
   styles="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"           
 />
 
 <img 
-  align= "left"
-  alt= "sql"
-  title= "sql"
-  widht= "30px"
+  align="left"
+  alt="sql"
+  title="sql"
+  width="30px"
   styles="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"           
 />
